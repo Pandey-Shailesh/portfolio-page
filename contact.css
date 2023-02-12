@@ -1,0 +1,25 @@
+/* form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 120px;
+}
+form button{
+    margin-top: 34px;
+    padding: 18px;
+    margin-right: 30px;
+    border-radius: 45px;
+    background-color: #3e76de;
+    color: #fffdfd;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+    border: 2px solid darkcyan;
+}
+form button:hover{
+    background-color: #fafafb;
+    color: #3e76de;
+    box-shadow: rgb(175, 168, 168) 1px 2px 2px 1px;
+      
+} */
